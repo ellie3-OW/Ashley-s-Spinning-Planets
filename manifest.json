@@ -1,0 +1,9 @@
+{
+  "filename": "NewHorizonsConfig.dll", 
+  "author": "Ellie3-OW",
+  "name": "Ashley's Spinning Planets System",
+  "uniqueName": "Ellie3.Ashleys-Spinning-Planets",
+  "version": "1.0.0",
+  "owmlVersion": "2.3.0",
+  "dependencies": [ "xen.NewHorizons" ]
+}
