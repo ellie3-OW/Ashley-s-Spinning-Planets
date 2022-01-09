@@ -1,0 +1,54 @@
+{
+	"name" : "Rebecca",
+	"starSystem" : "ellie3.Ashley'sSpinningPlanets",
+	"Spawn" : 
+	{
+		"playerSpawnPoint" :
+		{"x": -55.65454, "y": 227.4736, "z": 183.9742},
+		"shipSpawnPoint" :
+		{"x": -59.18244, "y": 215.5915, "z": 196.174},
+		"startwithSuit" : true
+	},
+	"Base" :
+	{
+		"surfaceGravity" : 12,
+		"surfaceSize" : 300,
+		"hasMapMarker" : true,
+		"hasAmbientLight" : true,
+	},
+	"Orbit" :
+	{
+		"semiMajorAxis" : 6000,
+		"inclination" : 2,
+		"primaryBody" : "Ashley",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 102,
+		"trueAnomaly" : 180,
+		"axialTilt" : 23,
+		"siderealPeriod" : 50
+	},
+	"Atmosphere" :
+	{
+		"hasOxygen" : true,
+		"hasAtmosphere" : true,
+		"size" : 375,
+		"fogTint" : 
+		{
+			"r" : 90,
+			"g" : 128,
+			"b" : 128,
+			"a" : 255
+		},
+		"fogDensity": 0.1,
+		"fogSize": 375
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/rebecca_heightmap.jpg",	
+		"textureMap" : "planets/assets/rebecca_texturemap.jpg",	
+		"minHeight" : 292,
+		"maxHeight" : 300
+	}
+}

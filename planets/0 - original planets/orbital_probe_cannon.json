@@ -1,0 +1,5 @@
+{
+	"name" : "Orbital Probe Cannon",
+	"destroy" : true,
+	"starSystem" : "ellie3.Ashley'sSpinningPlanets"
+}
